@@ -11,7 +11,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" ><meta-data android:value="true" android:name="xposedmodule"/><meta-data android:value="Patch Netflix to think it is running on 4.1" android:name="xposeddescription"/><meta-data android:value="2.0*" android:name="xposedminversion"/>
+        android:theme="@style/AppTheme" ><meta-data android:value="true" android:name="xposedmodule"/><meta-data android:value="Patch Netflix to think it is running on 4.0" android:name="xposeddescription"/><meta-data android:value="2.0*" android:name="xposedminversion"/>
     </application>
 
 </manifest>
